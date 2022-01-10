@@ -1,4 +1,4 @@
-# [Ben's](https://github.com/bkcatton) Notes
+# Ben's Notes
 ## Summary
 
-This repository contains the notes taken by Ben C during the LHL Web Development Bootcamp. 
+This repository contains the notes taken by [Ben](https://github.com/bkcatton) during the LHL Web Development Bootcamp. 
